@@ -3,12 +3,17 @@
 My name is Ishan.
 GCC.
 
-#2 nd editor
+#1nd editor
 
 Type somthing....
 What
 is 
 this 
 tell 
-me an
+me
 about this....?
+
+#2nd editor
+
+2nd things 
+type somthing here...
